@@ -1,0 +1,5 @@
+src/app/code/core/Mage/ConfigurableSwatches/                                app/code/core/Mage/ConfigurableSwatches/
+src/app/design/frontend/rwd/default/layout/configurableswatches.xml         app/design/frontend/rwd/default/layout/configurableswatches.xml
+src/app/design/frontend/rwd/default/template/configurableswatches/          app/design/frontend/rwd/default/template/configurableswatches/
+src/app/etc/modules/Mage_ConfigurableSwatches.xml                           app/etc/modules/Mage_ConfigurableSwatches.xml
+src/app/locale/en_US/Mage_ConfigurableSwatches.csv                          app/locale/en_US/Mage_ConfigurableSwatches.csv
